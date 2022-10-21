@@ -1,0 +1,28 @@
+{
+    "name": "express-stream-range-mp4",
+    "version": "1.0.0",
+    "description": "Stream your mp4 videos with partial content",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "express",
+        "video",
+        "node",
+        "stream",
+        "mp4",
+        "range",
+        "partial"
+    ],
+    "author": "djibdjib",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Djibdjib/express-stream-range-mp4.git"
+    },
+    "peerDependencies": {
+        "express": "^4.17.1"
+    }
+}
